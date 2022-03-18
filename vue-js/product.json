@@ -1,0 +1,10 @@
+[ 
+    { 
+        "id": 1,
+        "name": "Product 1", 
+        "price": { "USD": 1499.99, "CAD": 1999.99 },
+        "description": "Comfort shoe" ,
+        "photo": "1.jpg"
+    }
+
+]
